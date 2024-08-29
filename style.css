@@ -1,0 +1,102 @@
+#container{
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    background-color: blue;
+    margin-top: -50;
+}
+
+.fila1{
+    padding-top: 100px;
+}
+.fila2{
+    margin-top: -240px;
+}
+
+.b1{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: rgb(215, 218, 80);
+    margin-left: 100px;
+}
+.b2{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: rgb(153, 67, 127);
+    margin-left: 120px;
+}
+.b3{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: rgb(158, 44, 44);
+    margin-left: 140px;
+}
+.b4{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: rgb(136, 145, 62);
+    margin-left: 160px;
+}
+.b5{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: rgb(25, 71, 133);
+    margin-left: 180px;
+}
+.b6{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: rgb(34, 163, 114);
+    margin-left: 200px;
+}
+
+
+
+.c1{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: rgb(100, 187, 59);
+    margin-left: 260px;
+}
+.c2{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: rgb(52, 91, 107);
+    margin-left: 280px;
+}
+.c3{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: rgb(113, 44, 139);
+    margin-left: 300px;
+}
+.c4{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: rgb(128, 33, 33);
+    margin-left: 320px;
+}
+.c5{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: rgb(33, 65, 58);
+    margin-left: 340px;
+}
+.c6{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: rgb(197, 166, 63);
+    margin-left: 360px;
+}
